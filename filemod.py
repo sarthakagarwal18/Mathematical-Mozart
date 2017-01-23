@@ -8,9 +8,6 @@ while 1:
         break
 for l in line:
     if len(l)>1:
-        #if l[0] == 'X' and l[1] == ':':
-         #   gp.write('\n')
-          #  continue
         if (ord(l[0])>=65 and ord(l[0])<=90 and l[1]==':') or l[0]=='%' :
             continue
     print(l)
