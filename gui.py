@@ -135,7 +135,7 @@ if __name__ == "__main__":
     #tempo menu
     temp_var = StringVar(root)
     temp_var.set("Slow") # initial value
-    tempb = OptionMenu(framemid, temp_var, "Short", "Fast")
+    tempb = OptionMenu(framemid, temp_var, "Slow", "Fast")
     tempb.config(font=("Raleway",10),width=10,bg="white",borderwidth=1,highlightthickness=0)
     tempb.place(x=900,y=150)
 
