@@ -1,0 +1,5 @@
+Transfer Files
+	http://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html
+
+Start New Instance
+	http://chrisalbon.com/jupyter/run_project_jupyter_on_amazon_ec2.html
