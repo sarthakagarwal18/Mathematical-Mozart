@@ -44,6 +44,9 @@ Built using Tkinter
 
 ![](/Screenshot.jpg?raw=true)
 
+
 #### References
 1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 2. https://maraoz.com/2016/02/02/abc-rnn/
+
+__Built By__: [Sarthak Agarwal](https://github.com/sarthakagarwal18) ,[Vaibhav Saxena](https://github.com/vaibhavsaxena1), [Vaibhav Singal](https://github.com/vaibhavsingal1996)
