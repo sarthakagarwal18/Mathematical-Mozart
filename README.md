@@ -46,6 +46,12 @@ Built using Tkinter
 ![](/Screenshot.jpg?raw=true)
 
 
+#### Scope of Improvement
+1. Merge more than 2 instruments to create an orchestra.
+2. Try to make and learn the model instrument specific tunes which are only soothing when played on that instrument.
+3. Incorporate genre as a parameter.
+4. Increase number of Instruments.
+
 #### References
 1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 2. https://maraoz.com/2016/02/02/abc-rnn/
